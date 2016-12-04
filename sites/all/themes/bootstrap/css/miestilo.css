@@ -1,0 +1,331 @@
+/*@media (min-width: @screen-md-min) { 
+
+#nice-menu-1{margin-top: 30px;}
+
+ }
+*/
+
+
+
+#pepe{
+	font-size:30px;
+}
+
+
+
+.page-header{display: none;}
+
+#data_contac_tit{
+
+  text-decoration:underline;
+font-weight: bold;
+}
+
+.Estilo1{
+
+	 font-size: 30px;
+    font-weight: bold;
+
+}
+
+#block-block-7{ 
+ width:100%; font-size:16px;
+
+
+           text-align: center;
+   
+}
+
+#contacto_tit{
+ font-size: 20px;font-weight: bold;
+}
+
+#contacto_msj{
+ font-size: 20px;
+ margin-bottom: 0px;
+}
+
+
+#block-webform-client-block-29{
+
+font-size: 20px;
+
+}
+
+
+#contacto {
+    background-color: #efefef;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#data_email{
+margin-bottom: 15px;
+}
+
+
+#data_movil{
+
+margin-bottom: 15px;
+}
+
+#data_titulo1{
+
+margin-bottom: 15px;
+}
+
+#data_dom{
+
+  margin-bottom: 15px;
+}
+
+
+
+
+.Estilo3 {
+    font-size: 21px;
+    color: #ffffff;
+    line-height: 22px;
+}
+
+#tituloss{
+  font-size: 30px; 
+  font-weight: bold;
+  margin-left: 0px;
+}
+
+#block-block-16 {
+    
+    font-size: 27px;
+
+}
+
+#servicios{
+	background-color: #e9eff3;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#trabajos{
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+
+#servicios5 {
+    font-size: 40px;
+    line-height: 37px;
+    margin: 20px auto 20px;
+    text-align: center;
+    /* width: 530px; */
+}
+
+
+#servicios2 {
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 32px;
+}
+
+#servicios3 {
+    /* height: 100%;*/
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 710px;*/
+}
+
+#servicios2{
+
+    width: 100%;
+    margin-right: 10px;
+}
+
+@media (max-width: 768px) { 
+    #servicios1{
+        margin-bottom: 50px;
+    }
+ }
+
+ @media (min-width: 768px) { 
+    #servicios1{
+        margin-bottom: 30px;
+    }
+ }
+
+#block-block-16{
+/* height: 100%; */
+
+}
+
+#data_email{
+
+  word-wrap: break-word; 
+}
+
+#prueb55 {
+    background-color: #f26d00;
+    
+    /* height: 44px;*/
+    padding: 11px;
+    /* width: 500px; */
+        font-size: 40px;
+    line-height: 37px;
+    /* margin: 40px auto 30px; */
+    text-align: center;
+    margin-bottom: 20px;
+    word-wrap: break-word; 
+}
+
+ @media (min-width: 768px) {  
+        #prueb55 {
+            width: 500px; 
+        }
+        .views-field {
+               
+
+         }
+         #prod_info{
+            padding-left: 0px;
+         }
+
+         #block-views-productos10-block img{
+
+              display: block;
+          margin-left: auto;
+          margin-right: auto;
+
+        }
+
+        #piepagina {
+            padding-top: 9px;
+            width: 395px;
+        }
+
+
+ }
+
+  @media (min-width: 992px) {  
+           #block-views-productos10-block img{
+
+              display: block;
+          margin-left: auto;
+          margin-right: auto;
+          float: right;
+
+        }
+   }
+
+
+  @media (max-width: 768px) {  
+    #prueb55 {
+        /* width: 500px; */
+        }
+        .views-field {
+               
+         }
+
+         #prod_info{
+            margin-top: 10px;
+         }
+
+         #trabajos_titulo{
+            text-align: center;
+         }
+
+         #trabajos_descripcion{
+            text-align: center;
+         }
+         #block-views-productos10-block img{
+
+              display: block;
+          margin-left: auto;
+          margin-right: auto;
+        }
+        #piepagina {
+         padding-top: 9px;
+         width: 100%;
+        }
+
+     
+
+
+
+ }
+
+
+#prueb55 a{
+color: #ffffff;
+
+}
+
+#servicios6 {
+
+    
+}
+
+
+#block-views-productos10-block h2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-top: 0;
+}
+
+
+.views-field {
+    background-color: #e0f1cf;
+    border: 4px solid green;
+    
+    height: 100%;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    width: 100%;
+    
+}
+#trabajos_titulo{
+
+	  font-size: 25px;
+    font-weight: bold;
+    line-height: 100%;
+}
+
+#trabajos_descripcion{
+ font-size: 23px;
+
+}
+
+
+/*
+
+*/
+
+
+#contacto_mail{
+word-wrap: break-word; 
+height:auto; 
+   
+
+}
+
+#block-system-main-menu ul{
+
+font-size: 18px ;
+background-color: #003399;
+text-transform: uppercase;
+ font-weight:bold;
+   color: #FFFFFF;
+}
+
+#block-system-main-menu ul a:hover,
+#block-system-main-menu ul a:focus {
+  background:#1350cb;
+  color:#ffffff;
+}
+
+#block-system-main-menu ul a {
+  color:#ffffff;
+}

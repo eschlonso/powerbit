@@ -1,0 +1,41 @@
+<HTML>
+  <HEAD>
+  <TITLE></TITLE> <SCRIPT LANGUAGE="JavaScript">
+<!--
+var hour = "0"
+var min = "00"
+var sec = "0"
+function timer(){
+if ((min < 10) && (min != "00")){
+ dismin = "0" + min
+}
+else{
+ dismin = min
+}
+ dissec = (sec < 10) ? sec = "0" + sec : sec
+ document.timer.counter.value = hour + ":" + dismin + ":" + dissec
+
+ if (sec < 59){
+  sec++
+ }
+ else{
+  sec = "0"
+  min++
+  if (min > 59){
+   min = "00"
+   hour++
+  }
+ }
+ window.setTimeout("timer()",1000)
+}
+// -->
+</SCRIPT>
+  </HEAD>
+  <BODY ONLOAD="timer()">
+  <FORM NAME="timer">
+  <P><FONT SIZE="-1" FACE="Arial">Llevas en esta página</FONT>
+     <INPUT TYPE="TEXT" NAME="counter"></P>
+         </FORM> <BR>
+  <P><A HREF="http://www.xlwebmasters.com"><FONT SIZE="-1" FACE="Arial"><B>www.xlwebmasters.com</B></FONT></A></P>
+</BODY>
+</HTM>

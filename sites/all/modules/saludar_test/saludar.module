@@ -1,0 +1,60 @@
+<?php
+/**
+ * @file
+ * Archivo para empezar a programar con Drupal
+ */
+
+/**
+ * Implementa hook_menu().
+ */
+function saludar_menu() {
+  $items['saludar/hola-mundo'] = array(
+    'title' => 'Saludar',
+    'page callback' => 'saludar_hola_mundo',
+    'access callback' => TRUE,
+  );
+  return $items;
+}
+
+/**
+ * Callback que implementa la página: saludar/hola-mundo.
+ */
+function saludar_hola_mundo() {
+    $variables = array(
+    'message' => 'Hola Mundo',
+  );
+  return theme('saludar_hola_mundo', $variables);
+}
+
+/**
+ * Implementa hook_theme().
+ */
+function saludar_theme() {
+  return array(
+    'saludar_hola_mundo' => array(
+      'template' => 'saludar-hola-mundo',
+    ),
+  );
+}
+
+
+
+function saludar_block_info() {
+  $blocks['hola_mundo'] = array(
+    'info' => 'Bloque para Hola Mundo',
+  );
+  return $blocks;
+}
+
+/**
+ * Implementa hook_block_view().
+ */
+function saludar_block_view($delta = '') {
+  switch ($delta) {
+    case 'hola_mundo':
+      $block['content'] = saludar_hola_mundo();
+      return $block;
+  }
+  break;
+}
+?>

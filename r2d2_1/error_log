@@ -1,0 +1,11 @@
+[10-Jan-2015 01:22:48 America/Argentina/Buenos_Aires] PHP Warning:  mysql_connect(): Can't connect to MySQL server on '190.228.29.63' (4) in /home/ceramic8f8/public_html/r2d2/index.php on line 19
+[10-Jan-2015 01:24:55 America/Argentina/Buenos_Aires] PHP Warning:  mysql_connect(): Can't connect to MySQL server on '190.228.29.63' (4) in /home/ceramic8f8/public_html/r2d2/index.php on line 19
+[09-Jan-2015 23:30:38 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'todohoga_user1'@'localhost' (using password: YES) in /home/ceramic8f8/public_html/r2d2/lista_links.php on line 21
+[09-Jan-2015 23:31:01 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'todohoga_user1'@'localhost' (using password: YES) in /home/ceramic8f8/public_html/r2d2/lista_links.php on line 21
+[11-Jan-2015 14:04:00 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/index.php on line 3
+[11-Jan-2015 14:04:00 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/index.php on line 3
+[11-Jan-2015 14:04:00 America/New_York] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ceramic8f8/public_html/r2d2/index.php on line 3
+[11-Jan-2015 16:04:00 America/Argentina/Buenos_Aires] PHP Warning:  mysql_connect(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/index.php on line 18
+[11-Feb-2015 07:42:45 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'todohoga_user1'@'localhost' (using password: YES) in /home/ceramic8f8/public_html/r2d2/guardar_links.php on line 21
+[11-Feb-2015 07:42:57 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'todohoga_user1'@'localhost' (using password: YES) in /home/ceramic8f8/public_html/r2d2/guardar_links.php on line 21
+[27-Nov-2016 09:56:17 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/ceramic8f8/public_html/r2d2/index.php on line 1760

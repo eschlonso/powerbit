@@ -1,0 +1,4 @@
+AuthUserFile "/home/ceramic8f8/.htpasswds/public_html/prueba/passwd"
+AuthType Basic
+AuthName "alberto1"
+require valid-user

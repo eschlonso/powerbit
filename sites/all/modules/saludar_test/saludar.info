@@ -1,0 +1,4 @@
+name = saludar
+description = "Módulo de productos"
+package = Aprendiendo a programar con Drupal
+core = 7.x

@@ -1,0 +1,14 @@
+[11-Jan-2015 14:22:39 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ceramic8f8/public_html/r2d2/finanzas/PersonActionsPagedSorted.php on line 24
+[11-Jan-2015 14:22:55 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ceramic8f8/public_html/r2d2/finanzas/PersonActionsPagedSorted.php on line 24
+[11-Jan-2015 14:23:04 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ceramic8f8/public_html/r2d2/finanzas/PersonActionsPagedSorted.php on line 24
+[11-Jan-2015 14:23:19 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ceramic8f8/public_html/r2d2/finanzas/PersonActionsPagedSorted.php on line 24
+[11-Jan-2015 14:27:17 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ceramic8f8/public_html/r2d2/finanzas/PersonActionsPagedSorted.php on line 24
+[11-Jan-2015 14:29:10 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ceramic8f8/public_html/r2d2/finanzas/PersonActionsPagedSorted.php on line 24
+[11-Jan-2015 14:29:27 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ceramic8f8/public_html/r2d2/finanzas/PersonActionsPagedSorted.php on line 24
+[11-Jan-2015 14:29:53 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ceramic8f8/public_html/r2d2/finanzas/PersonActionsPagedSorted.php on line 24
+[11-Jan-2015 14:33:15 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ceramic8f8/public_html/r2d2/finanzas/PersonActionsPagedSorted.php on line 24
+[11-Jan-2015 14:41:46 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ceramic8f8/public_html/r2d2/finanzas/PersonActionsPagedSorted.php on line 24
+[11-Jan-2015 14:44:27 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ceramic8f8/public_html/r2d2/finanzas/PersonActionsPagedSorted1.php on line 24
+[11-Jan-2015 14:49:42 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/ceramic8f8/public_html/r2d2/finanzas/PersonActionsPagedSorted1.php on line 24
+[11-Jan-2015 15:04:49 America/New_York] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/ceramic8f8/public_html/r2d2/finanzas/PersonActions.php on line 28
+[11-Jan-2015 15:04:49 America/New_York] PHP Warning:  json_encode(): Invalid UTF-8 sequence in argument in /home/ceramic8f8/public_html/r2d2/finanzas/PersonActions.php on line 28

@@ -1,0 +1,25 @@
+<head> 
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+    <title>Javascript clock using system date</title> 
+	<script type="text/javascript" src="script1.js"></script>
+</head>
+<body onload="initClock()">
+    <!--Contadores del reloj-->
+    <div class="countdown">
+        <div class="number">
+            <span id="Hours" />
+        </div>
+        <div class="number">
+            <span id="Minutes" />
+        </div>
+        <div class="number">
+            <span id="Seconds" />
+        </div>                           
+    </div>
+    <!--Botones-->
+    <div class="footer">
+        <a href="#" id="botonClock" onclick="pauseClock();" />
+        <a href="#" onclick="resetClock();">Reset</a>
+        <a href="#" onclick="saveClock();">Guardar</a>
+    </div>
+</body> 

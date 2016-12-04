@@ -1,0 +1,75 @@
+[10-Jan-2015 10:54:43 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 331
+[10-Jan-2015 10:54:43 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[10-Jan-2015 10:54:43 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 13:50:58 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 331
+[11-Jan-2015 13:50:58 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 13:50:58 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 13:59:16 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 331
+[11-Jan-2015 13:59:16 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 13:59:16 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 14:00:45 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 331
+[11-Jan-2015 14:00:45 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 14:00:45 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 14:02:40 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 331
+[11-Jan-2015 14:02:40 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 14:02:40 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 14:03:41 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 331
+[11-Jan-2015 14:03:41 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 14:03:41 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 14:04:45 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:04:45 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:04:45 America/New_York] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:04:46 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 331
+[11-Jan-2015 14:04:46 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 14:04:46 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 14:08:06 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:08:06 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:08:06 America/New_York] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:08:07 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 331
+[11-Jan-2015 14:08:07 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 14:08:07 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 14:10:13 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:10:13 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:10:13 America/New_York] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:10:14 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 331
+[11-Jan-2015 14:10:14 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 14:10:14 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 14:11:24 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:11:24 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:11:24 America/New_York] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:11:24 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 331
+[11-Jan-2015 14:11:24 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 14:11:24 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 332
+[11-Jan-2015 14:11:34 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:11:34 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:11:34 America/New_York] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:11:35 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 2
+[11-Jan-2015 14:11:35 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 2
+[11-Jan-2015 14:11:35 America/New_York] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 2
+[11-Jan-2015 14:11:35 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 335
+[11-Jan-2015 14:11:35 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 336
+[11-Jan-2015 14:11:35 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 336
+[11-Jan-2015 14:11:38 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:11:38 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:11:38 America/New_York] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ceramic8f8/public_html/r2d2/tareas/3.php on line 4
+[11-Jan-2015 14:11:39 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 2
+[11-Jan-2015 14:11:39 America/New_York] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 2
+[11-Jan-2015 14:11:39 America/New_York] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 2
+[11-Jan-2015 14:11:39 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 335
+[11-Jan-2015 14:11:39 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'ceramic8f8'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 336
+[11-Jan-2015 14:11:39 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 336
+[30-Jan-2015 14:02:48 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'todohoga_user1'@'localhost' (using password: YES) in /home/ceramic8f8/public_html/r2d2/tareas/save_msj.php on line 22
+[30-Jan-2015 14:07:08 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'todohoga_user1'@'localhost' (using password: YES) in /home/ceramic8f8/public_html/r2d2/tareas/save_msj.php on line 22
+[30-Jan-2015 14:07:10 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'todohoga_user1'@'localhost' (using password: YES) in /home/ceramic8f8/public_html/r2d2/tareas/save_msj.php on line 22
+[01-Feb-2015 16:54:52 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'todohoga_user1'@'localhost' (using password: YES) in /home/ceramic8f8/public_html/r2d2/tareas/save_msj.php on line 22
+[03-Feb-2015 13:51:14 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'todohoga_user1'@'localhost' (using password: YES) in /home/ceramic8f8/public_html/r2d2/tareas/save_msj.php on line 22
+[03-Feb-2015 13:59:14 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'ceramic8_user'@'localhost' (using password: YES) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 335
+[03-Feb-2015 13:59:14 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 336
+[03-Feb-2015 13:59:14 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 336
+[03-Feb-2015 14:06:57 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'todohoga_user1'@'localhost' (using password: YES) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 335
+[03-Feb-2015 14:06:57 America/New_York] PHP Warning:  mysql_select_db(): Access denied for user 'root'@'localhost' (using password: NO) in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 336
+[03-Feb-2015 14:06:57 America/New_York] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ceramic8f8/public_html/r2d2/tareas/lista.php on line 336
+[14-Apr-2015 10:05:47 America/New_York] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /home/ceramic8f8/public_html/r2d2/tareas/ajax.php on line 16
+[14-Apr-2015 10:05:47 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ceramic8f8/public_html/r2d2/tareas/ajax.php on line 19
+[07-Nov-2016 22:26:37 America/New_York] PHP Warning:  array_reverse() expects parameter 1 to be array, null given in /home/ceramic8f8/public_html/r2d2/tareas/ajax.php on line 16
+[07-Nov-2016 22:26:37 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/ceramic8f8/public_html/r2d2/tareas/ajax.php on line 19

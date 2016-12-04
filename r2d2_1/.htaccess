@@ -1,0 +1,2 @@
+AuthUserFile "/home/ceramic8f8/.htpasswds/public_html/r2d2/passwd"
+AuthName "batata"

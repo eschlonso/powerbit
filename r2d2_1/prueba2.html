@@ -1,0 +1,45 @@
+<script language="JavaScript">
+
+function sumaTiempos(t1, t2){
+var dot1 = t1.indexOf(".");
+var dot2 = t2.indexOf(".");
+var m1 = t1.substr(0, dot1);
+var m2 = t2.substr(0, dot2);
+var s1 = t1.substr(dot1 + 1);
+var s2 = t2.substr(dot2 + 1);
+var sRes = (Number(s1) + Number(s2));
+var mRes;
+var addMinute = false;
+if (sRes >= 60){
+addMinute = true;
+sRes -= 60;
+}
+mRes = (Number(m1) + Number(m2) + (addMinute? 1: 0));
+return String(mRes) + "." + String(sRes);
+}
+
+function calculaT3(){
+document.formulario.t3.value = sumaTiempos(document.formulario.t1.value, document.formulario.t2.value)
+}
+
+</script>
+</head>
+<body>
+<form name="formulario">
+<input type="text" name="t1" value="5.46"><br>
+<input type="text" name="t2" value="4.00"><br>
+<hr>
+<input type="text" name="t3" value=""><br><br>
+<input type="button" onclick="calculaT3()" value="Sumar">
+</form>
+</p>
+<p> </p>
+<p><img border="0" src="CORTARAQUI.gif" width="782" height="86"></p>
+<p> </p>
+<p> </p>
+<p><embed src="http://www.oocities.com/freue2002/Imagine-John_Lennon.mid" align="baseline" border="0" width="1" height="1" autostart="true" loop="10"></p>
+
+
+</body>
+
+</html>

@@ -1,0 +1,5 @@
+gpedit.msc
+configuracion equipo
+
+configuracion de windows
+archivos de comandos inicio
